@@ -11,6 +11,7 @@ This week I repurposed an old laptop by installing Ubuntu and VMWare Workstation
 - Installed WireShark
 - Installed Visual Studio Code - including git/python extension
 - Installed Edge and connected ot my college account
+- Installed net-tools
 
 
   ## Issues :
