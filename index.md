@@ -1,3 +1,3 @@
-# My Weekly CyberSecurity Blog
-
-- [Week 1 Write-Up](Week1.md)
+# Blair's Weekly Data Security Blog
+---
+1. [Data Breach definition - Week 1](Week1.md)
