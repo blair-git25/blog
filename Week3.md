@@ -30,4 +30,4 @@ Password checker score:
 
 #### 2. Importance of Encryption
 
-It is important to encrypt sensitive data to ensure it's only accessed by those who have permission and are authorised to do so. When sending sensitive data via email, its best to use an encrypted service like Protonmail. Protonmail uses end-to-end encryption, meaning that the sensitive data is fully encrypted while the email is in transit. This protects your data in the event that the email is intercepted, the data inside will be encrypted and unreadable.
+It is important to encrypt sensitive data to maintain privacy/confidentiality, protect from data breaches and ensure data integrity. When sending sensitive data via email, its best to use an encrypted service like Protonmail. Protonmail uses end-to-end encryption, meaning that the sensitive data is fully encrypted while the email is in transit. This protects your data in the event that the email is intercepted, the data inside will be encrypted and unreadable.
