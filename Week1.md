@@ -10,7 +10,7 @@ A data breach happens when confidential, or sensitive information is accessed, s
 
 A **security breach** is broader and happens when there is unauthorized access to a secured system, site, application or network. A security breach may lead to a data breach, but it may also involve no loss or exposed data - data may still be secure during a security breach.  
 
- A **security incident** is a general event that threatens or may threaten the confidentiality, integrity, or availability of data and systems. This could be a suspicious login or a denial of service attack. Not every security incident becomes a security breach, but every breach starts of as an incident. 
+A **security incident** is a general event that threatens or may threaten the confidentiality, integrity, or availability of data and systems. This could be a suspicious login or a denial of service attack. Not every security incident becomes a security breach, but every breach starts of as an incident. 
 
 
 #### Consequences of a data breach 
