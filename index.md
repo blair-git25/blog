@@ -6,3 +6,4 @@
 4. [Firewall - Week 4](Week4.md)
 5. [Intrusion Detection Systems -  Week 5](Week5.md)
 6. [Firewall Install/Configure - Week 6](Week6.md)
+7. [Backups - Week 7](Week7.md)
