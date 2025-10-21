@@ -5,3 +5,4 @@
 3. [Password Policy - Week 3](Week3.md)
 4. [Firewall - Week 4](Week4.md)
 5. [Intrusion Detection Systems -  Week 5](Week5.md)
+6. [Firewall Install/Configure - Week 6](Week6.md)
