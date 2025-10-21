@@ -6,9 +6,9 @@ ___
 
 #### 1. Installation
 
-The firewall I will be installing is called Uncomplicated Firewall, of UFW for short. Its a user-friendly command line tool for managing Linux's netfilter firewall and simplifies the comlpex iptables rules for allowing/blocking traffic. 
+The firewall we will be installing is called Uncomplicated Firewall, or UFW for short. It's a user-friendly command line tool for managing Linux's netfilter firewall and simplifies the complex iptables rules for allowing/blocking traffic. 
 
-To install UFW I ran this script:
+To install UFW we will run this script:
 ```
 sudo apt install ufw
 ```
@@ -16,7 +16,7 @@ This installs the UFW software packages. It is disabled by default, and before w
 
 #### 2. Configuration
 
-To start of with, we will set the default policies. These default rules are already setup after installation, but we will be explicit in doing them for best practises. These are restrictive as it denies all incoming traffic, but ensures the host can still receive updates at a base level.
+To start of with, we will set the default policies. These default rules are already setup after installation, but we will be explicit in doing them for best practises - don't assume it's configured. These are restrictive as it denies all incoming traffic, but ensures the host can still receive updates at a base level.
 
 ```
 sudo ufw default deny incoming
