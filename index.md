@@ -7,3 +7,5 @@
 5. [Intrusion Detection Systems -  Week 5](Week5.md)
 6. [Firewall Install/Configure - Week 6](Week6.md)
 7. [Backups - Week 7](Week7.md)
+8. [Whitelist/Blacklist - Week 8](Week8.md)
+9. [Physical Security Threats - Week 9](Week9.md)
