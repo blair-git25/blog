@@ -9,3 +9,4 @@
 7. [Backups - Week 7](Week7.md)
 8. [Whitelist/Blacklist - Week 8](Week8.md)
 9. [Physical Security Threats - Week 9](Week9.md)
+10. [Biometric Authentication Methods - Week 10](Week10.md)
